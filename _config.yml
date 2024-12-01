@@ -1,0 +1,41 @@
+url: https://third-monday.github.io
+baseurl: 
+
+# Site settings
+title: Third Monday, LLC
+email: info@third-monday.com
+description: "Third Monday, LLC is a small team of senior software engineers providing custom software design, development and consulting services"
+
+# Team names, titles and social links
+people:
+- name: Paul Hastings
+  pic: unsplash-headshot-1.jpg
+  position: Co-Founder
+  social:
+    - title: github
+      url: https://github.com/sisyphuscafe
+    - title: linkedin
+      url: https://www.linkedin.com/in/paul-d-hastings/
+
+- name: Russ Loucks
+  pic: unsplash-headshot-2.jpg
+  position: Co-Founder
+  social:
+    - title: github
+      url: https://github.com/retiredracer
+    - title: linkedin
+      url: https://www.linkedin.com/in/russ-loucks/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/third-monday
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: "7455 France Ave So, #326"
+  - line: Edina, MN 55435
+
+# Build settings
+markdown: kramdown
+permalink: pretty
